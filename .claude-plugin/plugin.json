@@ -18,5 +18,8 @@
     ],
     "displayName": "DeliveryKit",
     "repository": "https://github.com/Delivery-Kit/deliverykit-claude",
-    "license": "MIT"
+    "license": "MIT",
+    "privacyPolicyUrl": "https://deliverykit.app/privacy",
+    "termsOfServiceUrl": "https://deliverykit.app/terms",
+    "supportUrl": "https://deliverykit.app/support"
 }
