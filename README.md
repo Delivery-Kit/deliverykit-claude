@@ -32,4 +32,4 @@ Through that connection Claude can read and change your own workspace: products,
 
 Claude asks before changes that affect your store or email your subscribers. It cannot refund orders, cancel buyer subscriptions, or take buyer payments in chat; buyers pay on Stripe-hosted checkout.
 
-Support: support@deliverykit.app. Privacy: https://deliverykit.app/privacy
+Support: support@deliverykit.app. [Privacy policy](https://deliverykit.app/privacy).

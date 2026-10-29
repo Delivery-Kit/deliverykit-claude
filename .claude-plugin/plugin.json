@@ -16,8 +16,6 @@
         "subscriptions",
         "checkout links"
     ],
-    "icon": "./assets/deliverykit-icon.png",
-    "privacyPolicyUrl": "https://deliverykit.app/privacy",
     "displayName": "DeliveryKit",
     "repository": "https://github.com/ow/deliverykit-claude",
     "license": "MIT"
