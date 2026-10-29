@@ -5,10 +5,10 @@ DeliveryKit lets you sell digital downloads and memberships with Stripe Checkout
 ## Install
 
 ```
-/plugin install deliverykit --marketplace ow/deliverykit-claude
+/plugin install deliverykit --marketplace Delivery-Kit/deliverykit-claude
 ```
 
-Or from your shell: `claude plugin marketplace add ow/deliverykit-claude`, then `claude plugin install deliverykit@deliverykit`. On claude.ai, add it from Customize > Plugins.
+Or from your shell: `claude plugin marketplace add Delivery-Kit/deliverykit-claude`, then `claude plugin install deliverykit@deliverykit`. On claude.ai, add it from Customize > Plugins.
 
 ## Setup
 
