@@ -1,0 +1,24 @@
+{
+    "name": "deliverykit",
+    "version": "0.1.0",
+    "description": "Sell digital downloads and memberships with Stripe Checkout and automatic file delivery. Guided workflows for setting up a store, launching products, publishing to subscriber libraries, collecting leads, and reviewing sales.",
+    "author": {
+        "name": "DeliveryKit",
+        "email": "support@deliverykit.app",
+        "url": "https://deliverykit.app"
+    },
+    "homepage": "https://deliverykit.app",
+    "keywords": [
+        "digital products",
+        "file delivery",
+        "Stripe",
+        "memberships",
+        "subscriptions",
+        "checkout links"
+    ],
+    "icon": "./assets/deliverykit-icon.png",
+    "privacyPolicyUrl": "https://deliverykit.app/privacy",
+    "displayName": "DeliveryKit",
+    "repository": "https://github.com/ow/deliverykit-claude",
+    "license": "MIT"
+}

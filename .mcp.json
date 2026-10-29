@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "deliverykit": {
+            "type": "http",
+            "url": "https://deliverykit.app/mcp"
+        }
+    }
+}

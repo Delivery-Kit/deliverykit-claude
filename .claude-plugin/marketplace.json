@@ -1,0 +1,15 @@
+{
+    "name": "deliverykit",
+    "owner": {
+        "name": "DeliveryKit",
+        "email": "support@deliverykit.app"
+    },
+    "plugins": [
+        {
+            "name": "deliverykit",
+            "source": "./",
+            "description": "Sell digital downloads and memberships with Stripe Checkout and automatic file delivery. Guided workflows for setting up a store, launching products, publishing to subscriber libraries, collecting leads, and reviewing sales."
+        }
+    ],
+    "description": "DeliveryKit plugin for Claude: sell digital downloads and memberships."
+}
